@@ -105,7 +105,7 @@ const fetchCountries = async () => {
 
 ### Project Structure
 Here’s an overview of the project structure:
-
+```
 Copy
 global-explorer/
 ├── public/              # Static assets
